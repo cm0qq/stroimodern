@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stroimodern", "stroimodern\stroimodern.csproj", "{BF3DA661-B957-4430-83FF-FC1A83BCB201}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stroimoderntests", "stroimoderntests\stroimoderntests.csproj", "{F8CA5B63-625F-49EC-8414-9819E8A0C240}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF3DA661-B957-4430-83FF-FC1A83BCB201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF3DA661-B957-4430-83FF-FC1A83BCB201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF3DA661-B957-4430-83FF-FC1A83BCB201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF3DA661-B957-4430-83FF-FC1A83BCB201}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8CA5B63-625F-49EC-8414-9819E8A0C240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8CA5B63-625F-49EC-8414-9819E8A0C240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8CA5B63-625F-49EC-8414-9819E8A0C240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8CA5B63-625F-49EC-8414-9819E8A0C240}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE081F65-4ABB-40A0-9719-E5A62CF19531}
+	EndGlobalSection
+EndGlobal
